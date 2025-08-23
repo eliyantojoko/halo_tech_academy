@@ -1,0 +1,501 @@
+user_id,age,segment
+1,53,Consumer
+2,31,Consumer
+3,48,Small Business
+4,32,Small Business
+5,25,Small Business
+6,31,Corporate
+7,40,Consumer
+8,57,Consumer
+9,38,Corporate
+10,33,Corporate
+11,35,Consumer
+12,41,Small Business
+13,43,Consumer
+14,42,Consumer
+15,58,Consumer
+16,46,Consumer
+17,32,Consumer
+18,18,Consumer
+19,42,Consumer
+20,24,Corporate
+21,26,Corporate
+22,41,Corporate
+23,18,Small Business
+24,25,Consumer
+25,41,Consumer
+26,28,Small Business
+27,34,Consumer
+28,25,Small Business
+29,52,Consumer
+30,52,Small Business
+31,50,Consumer
+32,22,Small Business
+33,59,Corporate
+34,56,Small Business
+35,58,Consumer
+36,45,Corporate
+37,24,Small Business
+38,26,Corporate
+39,25,Corporate
+40,29,Corporate
+41,51,Consumer
+42,50,Corporate
+43,40,Corporate
+44,41,Small Business
+45,54,Consumer
+46,52,Consumer
+47,57,Small Business
+48,39,Small Business
+49,44,Consumer
+50,52,Corporate
+51,18,Consumer
+52,52,Consumer
+53,54,Consumer
+54,31,Consumer
+55,20,Corporate
+56,18,Consumer
+57,22,Small Business
+58,43,Small Business
+59,31,Corporate
+60,56,Corporate
+61,44,Consumer
+62,26,Small Business
+63,32,Corporate
+64,32,Consumer
+65,43,Small Business
+66,59,Small Business
+67,30,Small Business
+68,49,Corporate
+69,56,Corporate
+70,49,Consumer
+71,21,Small Business
+72,47,Small Business
+73,54,Consumer
+74,40,Consumer
+75,56,Consumer
+76,32,Small Business
+77,46,Small Business
+78,53,Consumer
+79,30,Corporate
+80,49,Consumer
+81,24,Small Business
+82,39,Small Business
+83,45,Small Business
+84,19,Consumer
+85,59,Consumer
+86,23,Consumer
+87,45,Consumer
+88,45,Small Business
+89,37,Small Business
+90,47,Small Business
+91,28,Small Business
+92,45,Corporate
+93,42,Corporate
+94,56,Small Business
+95,50,Small Business
+96,18,Consumer
+97,44,Consumer
+98,30,Consumer
+99,58,Small Business
+100,20,Corporate
+101,56,Consumer
+102,23,Corporate
+103,25,Corporate
+104,44,Consumer
+105,26,Consumer
+106,54,Corporate
+107,50,Corporate
+108,59,Corporate
+109,41,Corporate
+110,32,Small Business
+111,49,Corporate
+112,49,Corporate
+113,41,Small Business
+114,58,Consumer
+115,29,Consumer
+116,56,Consumer
+117,19,Corporate
+118,20,Corporate
+119,54,Corporate
+120,34,Consumer
+121,19,Consumer
+122,19,Consumer
+123,45,Consumer
+124,40,Corporate
+125,54,Consumer
+126,49,Consumer
+127,50,Small Business
+128,18,Consumer
+129,36,Corporate
+130,19,Corporate
+131,43,Consumer
+132,49,Corporate
+133,23,Small Business
+134,49,Small Business
+135,21,Consumer
+136,28,Small Business
+137,34,Consumer
+138,55,Consumer
+139,41,Consumer
+140,22,Small Business
+141,51,Consumer
+142,23,Consumer
+143,39,Corporate
+144,28,Consumer
+145,33,Consumer
+146,50,Consumer
+147,26,Consumer
+148,23,Consumer
+149,33,Consumer
+150,46,Corporate
+151,20,Consumer
+152,37,Consumer
+153,53,Small Business
+154,36,Consumer
+155,43,Corporate
+156,20,Consumer
+157,36,Consumer
+158,37,Consumer
+159,49,Consumer
+160,24,Consumer
+161,58,Consumer
+162,50,Consumer
+163,57,Consumer
+164,56,Consumer
+165,35,Consumer
+166,57,Consumer
+167,18,Corporate
+168,28,Corporate
+169,45,Consumer
+170,42,Corporate
+171,40,Corporate
+172,48,Consumer
+173,47,Small Business
+174,59,Small Business
+175,52,Consumer
+176,24,Consumer
+177,33,Small Business
+178,43,Corporate
+179,19,Consumer
+180,18,Consumer
+181,29,Consumer
+182,22,Consumer
+183,54,Corporate
+184,49,Consumer
+185,26,Consumer
+186,58,Corporate
+187,52,Consumer
+188,36,Consumer
+189,33,Corporate
+190,20,Small Business
+191,37,Corporate
+192,41,Corporate
+193,50,Consumer
+194,41,Consumer
+195,28,Corporate
+196,25,Consumer
+197,53,Consumer
+198,55,Consumer
+199,57,Consumer
+200,37,Consumer
+201,52,Consumer
+202,42,Consumer
+203,52,Consumer
+204,42,Small Business
+205,46,Corporate
+206,35,Corporate
+207,35,Corporate
+208,19,Consumer
+209,52,Consumer
+210,33,Corporate
+211,58,Corporate
+212,53,Corporate
+213,50,Consumer
+214,21,Consumer
+215,50,Consumer
+216,31,Consumer
+217,38,Corporate
+218,37,Corporate
+219,25,Consumer
+220,24,Small Business
+221,20,Corporate
+222,34,Consumer
+223,50,Consumer
+224,29,Consumer
+225,39,Consumer
+226,39,Consumer
+227,47,Consumer
+228,55,Consumer
+229,55,Consumer
+230,25,Small Business
+231,44,Consumer
+232,44,Corporate
+233,51,Consumer
+234,38,Small Business
+235,47,Consumer
+236,50,Consumer
+237,45,Small Business
+238,50,Small Business
+239,22,Small Business
+240,36,Consumer
+241,21,Consumer
+242,52,Corporate
+243,34,Small Business
+244,45,Corporate
+245,47,Corporate
+246,46,Consumer
+247,23,Corporate
+248,52,Consumer
+249,58,Consumer
+250,54,Consumer
+251,41,Corporate
+252,46,Consumer
+253,48,Consumer
+254,52,Corporate
+255,50,Consumer
+256,38,Corporate
+257,49,Consumer
+258,40,Consumer
+259,50,Corporate
+260,20,Consumer
+261,35,Consumer
+262,42,Consumer
+263,59,Consumer
+264,48,Small Business
+265,20,Consumer
+266,57,Small Business
+267,41,Consumer
+268,49,Corporate
+269,39,Corporate
+270,40,Corporate
+271,19,Consumer
+272,44,Consumer
+273,59,Consumer
+274,19,Small Business
+275,43,Small Business
+276,34,Small Business
+277,57,Consumer
+278,50,Corporate
+279,26,Small Business
+280,56,Consumer
+281,46,Consumer
+282,59,Corporate
+283,43,Corporate
+284,52,Small Business
+285,42,Consumer
+286,41,Corporate
+287,30,Consumer
+288,24,Consumer
+289,53,Consumer
+290,37,Small Business
+291,18,Corporate
+292,25,Corporate
+293,33,Consumer
+294,31,Small Business
+295,29,Consumer
+296,40,Small Business
+297,32,Consumer
+298,45,Consumer
+299,51,Consumer
+300,19,Consumer
+301,49,Corporate
+302,40,Corporate
+303,39,Consumer
+304,42,Small Business
+305,39,Consumer
+306,39,Corporate
+307,59,Small Business
+308,23,Corporate
+309,32,Consumer
+310,54,Small Business
+311,50,Corporate
+312,25,Consumer
+313,22,Consumer
+314,56,Corporate
+315,21,Corporate
+316,23,Corporate
+317,49,Small Business
+318,47,Corporate
+319,52,Consumer
+320,57,Consumer
+321,33,Consumer
+322,30,Corporate
+323,59,Consumer
+324,47,Corporate
+325,36,Corporate
+326,34,Small Business
+327,36,Consumer
+328,45,Small Business
+329,43,Consumer
+330,54,Small Business
+331,43,Consumer
+332,40,Consumer
+333,26,Corporate
+334,29,Consumer
+335,18,Consumer
+336,18,Corporate
+337,51,Corporate
+338,49,Corporate
+339,42,Corporate
+340,57,Corporate
+341,18,Consumer
+342,33,Consumer
+343,56,Consumer
+344,22,Small Business
+345,39,Corporate
+346,46,Consumer
+347,20,Consumer
+348,29,Small Business
+349,43,Consumer
+350,33,Corporate
+351,54,Corporate
+352,39,Corporate
+353,46,Consumer
+354,31,Small Business
+355,45,Small Business
+356,22,Corporate
+357,47,Corporate
+358,22,Small Business
+359,29,Corporate
+360,33,Consumer
+361,43,Corporate
+362,43,Corporate
+363,38,Consumer
+364,56,Corporate
+365,53,Small Business
+366,50,Small Business
+367,47,Consumer
+368,54,Consumer
+369,40,Small Business
+370,27,Small Business
+371,22,Consumer
+372,53,Small Business
+373,51,Small Business
+374,48,Corporate
+375,27,Corporate
+376,36,Consumer
+377,49,Consumer
+378,18,Consumer
+379,22,Small Business
+380,21,Consumer
+381,33,Consumer
+382,41,Consumer
+383,33,Corporate
+384,19,Small Business
+385,45,Consumer
+386,49,Consumer
+387,44,Corporate
+388,37,Consumer
+389,41,Consumer
+390,29,Consumer
+391,52,Consumer
+392,50,Consumer
+393,50,Consumer
+394,54,Consumer
+395,29,Small Business
+396,20,Consumer
+397,18,Corporate
+398,50,Corporate
+399,57,Consumer
+400,27,Corporate
+401,46,Consumer
+402,30,Small Business
+403,29,Consumer
+404,48,Consumer
+405,19,Consumer
+406,52,Small Business
+407,40,Corporate
+408,34,Corporate
+409,43,Consumer
+410,25,Corporate
+411,46,Consumer
+412,43,Small Business
+413,27,Consumer
+414,43,Consumer
+415,51,Consumer
+416,58,Consumer
+417,24,Corporate
+418,21,Consumer
+419,28,Corporate
+420,46,Consumer
+421,53,Corporate
+422,42,Consumer
+423,38,Consumer
+424,53,Corporate
+425,27,Consumer
+426,54,Consumer
+427,26,Small Business
+428,41,Small Business
+429,52,Consumer
+430,52,Consumer
+431,53,Corporate
+432,35,Consumer
+433,56,Consumer
+434,49,Consumer
+435,41,Corporate
+436,40,Corporate
+437,49,Consumer
+438,54,Consumer
+439,29,Consumer
+440,30,Corporate
+441,40,Consumer
+442,42,Consumer
+443,52,Corporate
+444,58,Consumer
+445,47,Corporate
+446,34,Consumer
+447,37,Consumer
+448,42,Consumer
+449,39,Corporate
+450,30,Small Business
+451,36,Small Business
+452,53,Consumer
+453,29,Corporate
+454,58,Consumer
+455,36,Consumer
+456,29,Small Business
+457,26,Consumer
+458,24,Consumer
+459,45,Consumer
+460,31,Consumer
+461,48,Consumer
+462,36,Corporate
+463,33,Consumer
+464,22,Small Business
+465,52,Small Business
+466,29,Consumer
+467,42,Consumer
+468,38,Consumer
+469,53,Corporate
+470,40,Consumer
+471,33,Corporate
+472,56,Consumer
+473,59,Corporate
+474,56,Consumer
+475,31,Consumer
+476,48,Small Business
+477,22,Corporate
+478,52,Consumer
+479,40,Small Business
+480,46,Consumer
+481,28,Small Business
+482,35,Corporate
+483,29,Consumer
+484,26,Consumer
+485,27,Consumer
+486,34,Corporate
+487,55,Corporate
+488,24,Consumer
+489,30,Consumer
+490,57,Small Business
+491,59,Small Business
+492,26,Corporate
+493,44,Consumer
+494,19,Consumer
+495,22,Consumer
+496,46,Small Business
+497,54,Consumer
+498,55,Corporate
+499,36,Consumer
+500,25,Corporate
